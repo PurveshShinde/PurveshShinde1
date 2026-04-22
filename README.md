@@ -3,7 +3,7 @@
 <!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=CSE+Student;Full+Stack+Developer;AI+Explorer⚡;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=🎓 CSE+Student;💻 Full+Stack+Developer;🤖 AI+Explorer⚡;">
 </p>
 
 🎓 CSE Student | 💻 Full Stack Developer | 🤖 AI Explorer
@@ -68,7 +68,7 @@
 
 ## ⚡ Quote
 
-> "If the code doesn’t work, I don’t stop — I debug until it does." 💻🔥
+> "If the code doesn’t work, don’t stop — debug until it does." 💻🔥
 
 
 
