@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Purvesh
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Java+%7C+Python+Developer;DSA+Focused+%F0%9F%94%A5;AI+%2B+Backend+Explorer;Building+LUNA+%F0%9F%A7%A0;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Java+%7C+Python+Developer;DSA+Focused+%F0%9F%94%A5;AI+%2B+Backend+Explorer;">
 </p>
 
 🎓 B.Tech CSE | 💻 Backend & AI Developer | ⚡ DSA Focused
@@ -10,74 +10,58 @@
 
 ## 🚀 About Me
 
-- 💻 Strong focus on **Data Structures & Algorithms (Java)**
-- 🧠 Building **AI systems & local LLM-based projects**
-- ⚙️ Interested in **Backend + Cloud + AI Agents**
-- 🔥 Currently working on:
-  - 🤖 **LUNA** – Offline AI Assistant (LLM + Automation)
-  - 🛡️ **CyberGuard** – Android security & malware detection system
-- ☁️ Exploring **AWS + AI infrastructure**
-- 🎯 Goal: Become a **high-level backend / AI engineer**
+- 💻 Focused on **Data Structures & Algorithms (Java)**
+- 🧠 Exploring **AI systems & backend engineering**
+- ⚙️ Working with **APIs, databases & scalable systems**
+- ☁️ Learning **AWS + AI infrastructure**
+- 🎯 Goal: **Backend / AI Engineer**
 
 ---
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Core Languages
+### 👨‍💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Tools
+### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🧠 AI / ML Stack
+### 🧠 AI / Tools
 <p>
   <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-darkgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Ollama-grey?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge"/>
 </p>
 
-### ☁️ Cloud (Learning & Applying)
+### ☁️ Cloud
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Lambda-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Amazon%20S3-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RDS-lightgrey?style=for-the-badge"/>
-</p>
-
-### 🛠️ Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
 </p>
 
 ---
 
 ## 🔥 Projects
 
-### 🤖 LUNA (Personal AI Assistant)
-- Offline AI assistant using **LLMs + LangChain + FastAPI**
-- Features: automation, memory, screen interaction (planned)
-
-### 🛡️ CyberGuard
-- Android malware detection system
-- Features:
-  - Permission analysis
-  - APK scanning
-  - Threat scoring system
+### 🧠 GitMatch (Current Project)
+- Smart project/repo matching system  
+- Uses **APIs + filtering + ranking logic**
+- Goal: Help users discover relevant repositories efficiently
 
 ### 📄 AI PDF Reader (RAG)
-- Document Q&A using **ChromaDB + embeddings**
-- Retrieval-Augmented Generation pipeline
+- Document Q&A system using **embeddings + ChromaDB**
+- Implements **retrieval-based generation pipeline**
+
+### 🌐 Full Stack Projects
+- Built applications using **Node.js + Express + MongoDB**
+- Focus on **real-world functionality + clean backend logic**
 
 ---
 
@@ -92,10 +76,10 @@
 
 ## 🧠 Current Focus
 
-- 📌 Mastering **DSA (Java)**
-- 📌 Building **AI agents & systems**
-- 📌 Learning **scalable backend architecture**
-- 📌 Working with **AWS services**
+- 📌 DSA (Java)
+- 📌 Backend system design
+- 📌 AI integration in applications
+- 📌 AWS fundamentals
 
 ---
 
@@ -110,4 +94,4 @@
 
 ## ⚡ Quote
 
-> "Build systems. Not just code."
+> "Consistency > Motivation"
