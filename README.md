@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Purvesh
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Java+%7C+Python+Developer;DSA+Focused+%F0%9F%94%A5;AI+%2B+Backend+Explorer;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Java+%7C+Python+Developer;DSA+Focused+🔥;AI+%2B+Backend+Explorer;">
 </p>
 
 🎓 B.Tech CSE | 💻 Backend & AI Developer | ⚡ DSA Focused
@@ -56,8 +56,8 @@
 - Goal: Help users discover relevant repositories efficiently
 
 ### 📄 AI PDF Reader (RAG)
-- Document Q&A system using **embeddings + ChromaDB**
-- Implements **retrieval-based generation pipeline**
+- Document Q&A system using **ChromaDB + embeddings**
+- Retrieval-Augmented Generation pipeline
 
 ### 🌐 Full Stack Projects
 - Built applications using **Node.js + Express + MongoDB**
@@ -68,8 +68,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PurveshShinde&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PurveshShinde&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PurveshShinde&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
