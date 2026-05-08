@@ -1,6 +1,8 @@
-# Hi there, I'm Purvesh 👋
+# 👋 Hi there, I'm Purvesh
 
-A **Backend & AI Developer** and B.Tech CSE student passionate about building scalable, intelligent applications and solving complex problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=00F7FF&center=false&vCenter=true&width=800&lines=B.Tech+CSE+Student;Java+Backend+Developer;DSA+%2B+System+Design+Focused;AI+%2B+Backend+Explorer;Building+Scalable+%26+Intelligent+Applications" alt="Typing SVG" />
+
+A **Backend & AI Developer** passionate about building scalable, intelligent applications and solving complex problems.
 
 ### 👨🏻‍💻 About Me
 - 🎓 B.Tech Computer Science Engineering Student
@@ -15,7 +17,7 @@ A **Backend & AI Developer** and B.Tech CSE student passionate about building sc
 
 **Languages & Databases**  
 <br>
-<img src="https://skillicons.dev/icons?i=java,python,js,mysql,sqlite" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,js,mysql,python,sqlite" alt="Languages" />
 
 **Frameworks & Mobile**  
 <br>
@@ -28,17 +30,22 @@ A **Backend & AI Developer** and B.Tech CSE student passionate about building sc
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
-**Tools**  
+**Backend & General Tools**  
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,idea,postman,vscode,androidstudio" alt="Tools" />
 
 ---
 
 ### 🚀 Featured Projects
 
-- **[GitMatch](#)** — Smart repository/project matching platform with intelligent filtering and API discovery.
-- **[Flutter Apps](#)** — Functionality-driven mobile applications focused on clean UI and AI integrations.
-- **[Full Stack Experiments](#)** — Backend-heavy APIs, secure authentication systems, and scalable project architectures.
+**GitMatch**  
+Smart repository/project matching platform with intelligent filtering and API discovery.
+
+**Flutter Apps**  
+Functionality-driven mobile applications focused on clean UI and AI integrations.
+
+**Full Stack Experiments**  
+Backend-heavy APIs, secure authentication systems, and scalable project architectures.
 
 ---
 
