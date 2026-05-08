@@ -1,140 +1,183 @@
-<div align="center">
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Purvesh
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=B.Tech+CSE+Student;Java+Backend+Developer;DSA+%7C+AI+%7C+Backend+Engineering;Building+Scalable+%26+Intelligent+Systems" />
-
-<img src="https://komar<h1 align="center">Hey 👋, I'm Purvesh</h1>
+````md
+<h1 align="center">Hey 👋, I'm Purvesh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student;Java+Backend+Developer;DSA+%2B+System+Design+Focused;AI+%2B+Backend+Explorer;Building+Scalable+%26+Intelligent+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Java+Backend+Developer;DSA+%2B+System+Design+Focused;AI+%2B+Backend+Explorer;Building+Scalable+%26+Intelligent+Applications" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PurveshShinde&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=PurveshShinde&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend_Engineering-00F7FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI-Integrations-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DSA-Java-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open_Source-Learning-success?style=flat-square"/>
 </p>
 
 ---
 
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 # 💫 About Me
 
-🎓 B.Tech CSE Student  
-💻 Backend-focused developer passionate about scalable systems  
-🧠 Exploring AI integrations, APIs & intelligent applications  
-⚡ Strong focus on DSA using Java  
-☁️ Learning cloud technologies & modern backend architecture  
+```yaml
+Name: Purvesh
+Role: Backend & AI Developer
+Education: B.Tech CSE
+
+Interests:
+  - Backend Engineering
+  - AI Integrations
+  - DSA & Problem Solving
+  - Scalable Systems
+  - Full Stack Development
+
+Current Focus:
+  - Spring Boot
+  - System Design
+  - LangChain
+  - AWS Fundamentals
+  - Flutter Development
+
+Goal:
+  Become a Backend / AI Engineer
+````
+
+---
+
+# ⚡ AI Powered Workflow
+
+<div align="center">
+
+```mermaid
+flowchart LR
+
+A[Idea] --> B[Research]
+B --> C[AI Assisted Planning]
+C --> D[Backend Development]
+D --> E[Testing & Optimization]
+E --> F[Deployment]
+F --> G[Continuous Improvements]
+
+style A fill:#0f172a,color:#fff
+style B fill:#111827,color:#fff
+style C fill:#0f766e,color:#fff
+style D fill:#1e293b,color:#fff
+style E fill:#312e81,color:#fff
+style F fill:#0f766e,color:#fff
+style G fill:#111827,color:#fff
+```
+
+</div>
 
 ---
 
 # 🚀 Current Focus
 
-- 🔥 Data Structures & Algorithms (Java)
-- ⚙️ Spring Boot Backend Development
-- 🧠 AI + LLM Integrations
-- 🌐 Full Stack Development
-- ☁️ AWS Fundamentals
-- 📱 Flutter & Android Development
+<div align="center">
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔥 DSA (Java)
+⚙️ Spring Boot Backend Development
+🧠 AI + LLM Integrations
+🌐 Full Stack Development
+☁️ AWS Fundamentals
+📱 Flutter & Android Development
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
 
 ---
 
 # 💻 Tech Stack
 
-## 👨‍💻 Languages
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,python,mysql,react,tailwind,css,spring,sqlite,git,github,vscode,androidstudio,flutter" />
 
----
+<br><br>
 
-## 🎨 Frontend
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,css" />
-</p>
-
----
-
-## ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-</p>
+</div>
 
 ---
 
-## 🧠 AI / LLM
+# 🧠 Secure Development Workflow
 
-<p>
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-</p>
+<div align="center">
 
----
+```text
+┌─────────────────────────────────────────────┐
+│  PLAN → BUILD → TEST → SECURE → DEPLOY    │
+└─────────────────────────────────────────────┘
 
-## 🗄️ Database / Storage
+✔ AI Assisted Development
+✔ Clean Backend Architecture
+✔ API Based Systems
+✔ Scalable Design Principles
+✔ Secure Development Practices
+✔ Continuous Learning Workflow
+```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,aws" />
-</p>
-
----
-
-## ☁️ Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-</p>
-
----
-
-## 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-</p>
+</div>
 
 ---
 
 # 🔥 Featured Projects
 
 ## 🧠 GitMatch
+
 > Smart repository/project matching platform
 
-- Intelligent filtering & ranking system
-- Repository discovery using APIs
-- Backend-focused architecture
-- Designed for scalability & clean logic
+* Intelligent filtering & ranking system
+* Repository discovery using APIs
+* Backend-focused architecture
+* Designed for scalability & clean logic
 
 ---
 
 ## 📱 Flutter Applications
-- Android-focused mobile applications
-- Clean UI + functionality-driven development
-- Exploring AI integrations in mobile apps
+
+* Android-focused mobile applications
+* Clean UI + functionality-driven development
+* Exploring AI integrations in mobile apps
 
 ---
 
 ## 🌐 Full Stack Experiments
-- Backend APIs
-- Authentication systems
-- Database integration
-- Scalable project structures
+
+* Backend APIs
+* Authentication systems
+* Database integration
+* Scalable project structures
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PurveshShinde&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PurveshShinde&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PurveshShinde&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PurveshShinde&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurveshShinde&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PurveshShinde&theme=tokyo-night&hide_border=true"/>
@@ -146,38 +189,56 @@
 
 ```java
 class Purvesh {
+
+    String role = "Backend & AI Developer";
+
     String[] learning = {
         "Spring Boot",
         "System Design",
         "AWS",
-        "AI Integrations",
         "LangChain",
+        "AI Integrations",
         "Advanced DSA"
     };
-}ev.com/ghpvc/?username=PurveshShinde&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+    String[] goals = {
+        "Build scalable backend systems",
+        "Create AI powered applications",
+        "Master problem solving",
+        "Deploy production ready projects"
+    };
+
+    void mindset() {
+        System.out.println("Build. Break. Learn. Repeat.");
+    }
+}
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="YOUR_LEETCODE">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="YOUR_GITHUB">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ0OWx1djh4bXJxYm44bG4xMjRjZTd5d3o2ZGl4M2Flc2N6aHFoYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
 
-# 💫 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Build+.+Break+.+Learn+.+Repeat.;Consistency+beats+motivation.;Code+with+logic+not+luck.;Always+learning+something+new." />
 
-```yaml
-Name: Purvesh
-Education: B.Tech CSE
-Focus:
-  - Backend Engineering
-  - DSA in Java
-  - AI Systems
-  - Scalable Applications
-
-Currently Learning:
-  - Spring Boot
-  - LangChain
-  - AWS
-  - System Design
-
-Goal:
-  Become a Backend / AI Engineer
+</div>
+```
