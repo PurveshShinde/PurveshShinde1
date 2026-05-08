@@ -1,55 +1,52 @@
-````md
-<h1 align="center">Hey 👋, I'm Purvesh</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Java+Backend+Developer;DSA+%2B+System+Design+Focused;AI+%2B+Backend+Explorer;Building+Scalable+%26+Intelligent+Applications" />
-</p>
+# 👋 Hey, I'm Purvesh
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PurveshShinde&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student;Java+Backend+Developer;DSA+%2B+System+Design+Focused;AI+%2B+Backend+Explorer;Building+Scalable+%26+Intelligent+Applications" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend_Engineering-00F7FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI-Integrations-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DSA-Java-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open_Source-Learning-success?style=flat-square"/>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=PurveshShinde&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Backend-Engineering-00F7FF?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI-Integrations-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_Source-Learning-success?style=for-the-badge"/>
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-# 💫 About Me
+## 💫 About Me
 
 ```yaml
 Name: Purvesh
-Role: Backend & AI Developer
 Education: B.Tech CSE
+Role: Backend & AI Developer
 
-Interests:
+Focus Areas:
   - Backend Engineering
-  - AI Integrations
   - DSA & Problem Solving
-  - Scalable Systems
+  - AI Integrations
+  - System Design
   - Full Stack Development
 
-Current Focus:
+Currently Learning:
   - Spring Boot
-  - System Design
   - LangChain
   - AWS Fundamentals
+  - Scalable Backend Systems
   - Flutter Development
 
 Goal:
   Become a Backend / AI Engineer
-````
+```
 
 ---
 
-# ⚡ AI Powered Workflow
-
-<div align="center">
+## ⚡ AI Powered Workflow
 
 ```mermaid
 flowchart LR
@@ -57,26 +54,24 @@ flowchart LR
 A[Idea] --> B[Research]
 B --> C[AI Assisted Planning]
 C --> D[Backend Development]
-D --> E[Testing & Optimization]
-E --> F[Deployment]
-F --> G[Continuous Improvements]
+D --> E[Testing]
+E --> F[Security Checks]
+F --> G[Deployment]
+G --> H[Continuous Improvements]
 
 style A fill:#0f172a,color:#fff
 style B fill:#111827,color:#fff
 style C fill:#0f766e,color:#fff
 style D fill:#1e293b,color:#fff
 style E fill:#312e81,color:#fff
-style F fill:#0f766e,color:#fff
-style G fill:#111827,color:#fff
+style F fill:#7f1d1d,color:#fff
+style G fill:#0f766e,color:#fff
+style H fill:#111827,color:#fff
 ```
-
-</div>
 
 ---
 
-# 🚀 Current Focus
-
-<div align="center">
+## 🚀 Current Focus
 
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -91,71 +86,74 @@ style G fill:#111827,color:#fff
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-</div>
-
 ---
-
-# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,mysql,react,tailwind,css,spring,sqlite,git,github,vscode,androidstudio,flutter" />
+## 💻 Tech Stack
 
-<br><br>
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=java,js,python,mysql" alt="Languages" />
 
+<br>
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,css" alt="Frontend" />
+
+<br>
+
+### ⚙️ Backend & Mobile
+<img src="https://skillicons.dev/icons?i=spring,flutter" alt="Backend" />
+
+<br>
+
+### 🧠 AI / Cloud / Deployment
 <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 
+<br>
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,sqlite" alt="Tools" />
+
 </div>
 
 ---
 
-# 🧠 Secure Development Workflow
-
-<div align="center">
+## 🧠 Secure Development Workflow
 
 ```text
 ┌─────────────────────────────────────────────┐
-│  PLAN → BUILD → TEST → SECURE → DEPLOY    │
+│  PLAN → BUILD → TEST → SECURE → DEPLOY      │
 └─────────────────────────────────────────────┘
 
 ✔ AI Assisted Development
+✔ API Driven Systems
 ✔ Clean Backend Architecture
-✔ API Based Systems
-✔ Scalable Design Principles
+✔ Scalable Project Structures
 ✔ Secure Development Practices
 ✔ Continuous Learning Workflow
 ```
 
-</div>
-
 ---
 
-# 🔥 Featured Projects
+## 🔥 Featured Projects
 
-## 🧠 GitMatch
-
+### 🧠 GitMatch
 > Smart repository/project matching platform
-
 * Intelligent filtering & ranking system
 * Repository discovery using APIs
 * Backend-focused architecture
 * Designed for scalability & clean logic
 
----
-
-## 📱 Flutter Applications
-
+### 📱 Flutter Applications
 * Android-focused mobile applications
 * Clean UI + functionality-driven development
 * Exploring AI integrations in mobile apps
 
----
-
-## 🌐 Full Stack Experiments
-
+### 🌐 Full Stack Experiments
 * Backend APIs
 * Authentication systems
 * Database integration
@@ -163,29 +161,35 @@ style G fill:#111827,color:#fff
 
 ---
 
-# 📊 GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PurveshShinde&show_icons=true&theme=tokyonight&hide_border=true"/>
+## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PurveshShinde&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PurveshShinde&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurveshShinde&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PurveshShinde&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurveshShinde&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PurveshShinde&theme=tokyo-night&hide_border=true"/>
-</p>
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PurveshShinde&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+</div>
 
 ---
 
-# 🧠 Currently Learning
+## 🧠 Currently Learning
 
 ```java
 class Purvesh {
@@ -216,29 +220,24 @@ class Purvesh {
 
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
 
+## 🌐 Connect With Me
+
 <a href="YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 <a href="YOUR_LEETCODE">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <a href="YOUR_GITHUB">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Build+.+Break+.+Learn+.+Repeat.;Consistency+beats+motivation.;Code+with+logic+not+luck.;Always+learning+something+new." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Build+.+Break+.+Learn+.+Repeat.;Consistency+beats+motivation.;Code+with+logic+not+luck.;Always+learning+something+new." alt="Mindset" />
 
 </div>
-```
