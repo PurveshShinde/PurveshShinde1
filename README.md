@@ -46,20 +46,3 @@ Functionality-driven mobile applications focused on clean UI and AI integrations
 
 **Full Stack Experiments**  
 Backend-heavy APIs, secure authentication systems, and scalable project architectures.
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PurveshShinde&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&icon_color=00F7FF" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PurveshShinde&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF" height="160" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-<a href="YOUR_GITHUB_URL"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-<a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" height="48" alt="LeetCode" /></a>
