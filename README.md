@@ -1,80 +1,134 @@
-# 👋 Hey, I'm Purvesh
+<h1 align="center">Hey 👋, I'm Purvesh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Java+%7C+Python+Developer;DSA+Focused+🔥;AI+%2B+Backend+Explorer;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student;Java+Backend+Developer;DSA+%2B+System+Design+Focused;AI+%2B+Backend+Explorer;Building+Scalable+%26+Intelligent+Applications" />
 </p>
-
-🎓 B.Tech CSE | 💻 Backend & AI Developer | ⚡ DSA Focused
-
----
-
-## 🚀 About Me
-
-- 💻 Focused on **Data Structures & Algorithms (Java)**
-- 🧠 Exploring **AI systems & backend engineering**
-- ⚙️ Working with **APIs, databases & scalable systems**
-- ☁️ Learning **AWS + AI infrastructure**
-- 🎯 Goal: **Backend / AI Engineer**
-
----
-
-## 💻 Tech Stack
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### 🧠 AI / Tools
-<p>
-  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ollama-grey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge"/>
-</p>
-
-### ☁️ Cloud
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
----
-
-## 🔥 Projects
-
-### 🧠 GitMatch (Current Project)
-- Smart project/repo matching system  
-- Uses **APIs + filtering + ranking logic**
-- Goal: Help users discover relevant repositories efficiently
-
-### 📄 AI PDF Reader (RAG)
-- Document Q&A system using **ChromaDB + embeddings**
-- Retrieval-Augmented Generation pipeline
-
-### 🌐 Full Stack Projects
-- Built applications using **Node.js + Express + MongoDB**
-- Focus on **real-world functionality + clean backend logic**
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PurveshShinde&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PurveshShinde&theme=tokyonight"/>
+  <img src="https://komarev.com/ghpvc/?username=PurveshShinde&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🏆 Activity Graph
+# 💫 About Me
+
+🎓 B.Tech CSE Student  
+💻 Backend-focused developer passionate about scalable systems  
+🧠 Exploring AI integrations, APIs & intelligent applications  
+⚡ Strong focus on DSA using Java  
+☁️ Learning cloud technologies & modern backend architecture  
+
+---
+
+# 🚀 Current Focus
+
+- 🔥 Data Structures & Algorithms (Java)
+- ⚙️ Spring Boot Backend Development
+- 🧠 AI + LLM Integrations
+- 🌐 Full Stack Development
+- ☁️ AWS Fundamentals
+- 📱 Flutter & Android Development
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,mysql" />
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,css" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+---
+
+## 🧠 AI / LLM
+
+<p>
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+</p>
+
+---
+
+## 🗄️ Database / Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,aws" />
+</p>
+
+---
+
+## ☁️ Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+## 🧠 GitMatch
+> Smart repository/project matching platform
+
+- Intelligent filtering & ranking system
+- Repository discovery using APIs
+- Backend-focused architecture
+- Designed for scalability & clean logic
+
+---
+
+## 📱 Flutter Applications
+- Android-focused mobile applications
+- Clean UI + functionality-driven development
+- Exploring AI integrations in mobile apps
+
+---
+
+## 🌐 Full Stack Experiments
+- Backend APIs
+- Authentication systems
+- Database integration
+- Scalable project structures
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PurveshShinde&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PurveshShinde&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PurveshShinde&theme=tokyo-night&hide_border=true"/>
@@ -82,24 +136,16 @@
 
 ---
 
-## 🧠 Current Focus
+# 🧠 Currently Learning
 
-- 📌 DSA (Java)
-- 📌 Backend system design
-- 📌 AI integration in applications
-- 📌 AWS fundamentals
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/></a>
-</p>
-
----
-
-## ⚡ Quote
-
-> "Consistency > Motivation"
+```java
+class Purvesh {
+    String[] learning = {
+        "Spring Boot",
+        "System Design",
+        "AWS",
+        "AI Integrations",
+        "LangChain",
+        "Advanced DSA"
+    };
+}
